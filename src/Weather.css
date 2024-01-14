@@ -7,7 +7,7 @@
 }
 .Weather h1 {
   color: #878787;
-  font-size: 25px;
+  font-size: 30px;
   font-weight: 100;
   margin: 20px 0 0 0;
   line-height: 29px;
@@ -33,9 +33,7 @@
   color: rgb(33, 33, 33);
   font-size: 64px;
   line-height: 64px;
-  margin-left: 5px;
   font-weight: 400;
-  margin-left: 10px;
 }
 
 .Weather .unit {
