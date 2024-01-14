@@ -20,7 +20,7 @@ export default function App() {
             Svitlana Tovkaniuk
           </a>{" "}
           and is{" "}
-          <a href="https://github.com/svitlana-tov/react-weather-app">
+          <a href="https://github.com/svitlana-tov/react-weather-application-final">
             open-sourced on GitHub
           </a>
         </footer>
